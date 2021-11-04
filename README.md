@@ -1,5 +1,6 @@
 # commands
 List of important terminal commands 
+Test
 
 Change keyboard layout to ABNT2:
 
