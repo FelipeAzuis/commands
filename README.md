@@ -1,5 +1,5 @@
 # commands
-List of important commands 
+List of important terminal commands 
 
 Change keyboard layout to ABNT2:
 
